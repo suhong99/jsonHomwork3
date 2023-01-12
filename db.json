@@ -1,9 +1,79 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "records": [
+    {
+      "title": "ㅇㄹㅇㄹㅇs",
+      "content": "ㅇㅇㅇㅇㅇㅇㅇㅇ",
+      "writer": "ㅇㄹㅇㄹ",
+      "id": 4,
+      "editable": false
+    },
+    {
+      "title": "되야할텐데?",
+      "content": "안된다면 ㅇㅇㅇ움 ㅇㅇ",
+      "writer": "진짜 되나",
+      "id": 7
+    },
+    {
+      "title": "ㄹㄹㄹ",
+      "content": "ㄹㄹㄹ",
+      "writer": "ㄹㄹ",
+      "id": 8
+    },
+    {
+      "title": "ㄹㄹ",
+      "content": "ㄹ허로",
+      "writer": "ㄹㄹ",
+      "id": 9
+    },
+    {
+      "title": "ㄹㄴㅁㅇㄻㅇㄴㄹ",
+      "content": "ㄴㅇㄹ",
+      "writer": "ㅇㄹㅇㄴㅁ",
+      "id": 10
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    {
+      "recordId": "7",
+      "username": "ㅇㄹ",
+      "content": "ㄻㄴㅇㄹㅇㄴ",
+      "id": 1
+    },
+    {
+      "recordId": "7",
+      "username": "ㄻㅇㄴ",
+      "content": "ㄹㄴㅇ",
+      "id": 2
+    },
+    {
+      "recordId": "7",
+      "username": "ㄻㄴㅇdd",
+      "content": "ㄻㅇㄴddㄹ",
+      "id": 3
+    },
+    {
+      "recordId": "9",
+      "username": "ㄻㄴㅇdd",
+      "content": "ㄻㅇㄴddㄹ",
+      "id": 5
+    },
+    {
+      "recordId": "9",
+      "username": "dsfsf",
+      "content": "sdfdsfds",
+      "id": 6
+    },
+    {
+      "recordId": "7",
+      "username": "ㄻㄴㅇㄻㅇ",
+      "content": "ㅇㅁㄻㄴㅇㄹ",
+      "id": 7
+    },
+    {
+      "recordId": "8",
+      "username": "ㅇㅇ",
+      "content": "ㅇㅇㅇ",
+      "id": 8
+    }
+  ]
 }
